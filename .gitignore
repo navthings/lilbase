@@ -12,3 +12,8 @@ mac/llama.cpp/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+# lilchat weights, checkpoints and tokenized data
+sft/hf-chat/
+sft/sft_ckpt/
+sft/sft_data/
